@@ -20,7 +20,7 @@
 <h2 style="color: #2b6cb0;">🚀 Como executar</h2>
 
 <pre>
-git clone https://github.com/seunome/sistema-clientes.git
+git clone https://github.com/Iasmynsilva07/sqlite_crud_clientes.git
 cd sistema-clientes
 python main.py
 </pre>
